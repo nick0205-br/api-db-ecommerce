@@ -4,7 +4,6 @@
     <li>API criada em NODEJS;</li>
     <li>Banco de Dados em MySQL;</li>
 </ul>
-<hr>
 
 ## Instalação
 
